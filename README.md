@@ -7,6 +7,7 @@ This repository contains a Rust scaffold that can be used with [Visual Studio Co
 |               | Version        |
 |---------------|----------------|
 | Rust          | 1.70.0         |
+| Postgres      | 14.1           |
 
 ## Installation
 
@@ -14,7 +15,7 @@ This repository contains a Rust scaffold that can be used with [Visual Studio Co
 
 To install without using Dev Containers, follow these steps:
 
-1. Install dependencies by running the command `$ cargo run`.
+1. Install dependencies by running the command `$ cargo build`.
 
 ### With Dev Containers
 
